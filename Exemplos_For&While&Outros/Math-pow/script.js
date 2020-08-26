@@ -1,0 +1,3 @@
+console.log(Math.pow(2,2)); //2x2=4
+console.log(Math.pow(2,3)); //2x2=4x2=8
+console.log(Math.pow(2,18));//2x2=4x2=8x2=16........
